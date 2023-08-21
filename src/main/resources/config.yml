@@ -1,0 +1,5 @@
+messages:
+  message1: §c§lHey! §7The command §c
+  message2:  §7doesn't exist!
+command:
+    show: true
